@@ -1,4 +1,4 @@
-#Client-To-GraphQL-App
+# Client-To-GraphQL-App
 
 ## Available Scripts
 

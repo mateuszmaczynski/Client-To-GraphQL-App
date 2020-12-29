@@ -7,11 +7,10 @@ import {
   InMemoryCache
 } from "@apollo/client";
 // import reportWebVitals from './reportWebVitals';
-
 import App from './App';
 import './styles.css';
 
-const URL = "https://examples.devmastery.pl/random-stuff/graphql";
+const URL = "https://simple-graphql-app.herokuapp.com/";
 
 const client = new ApolloClient({
   cache: new InMemoryCache(),

@@ -25,3 +25,7 @@ blockquote footer {
 blockquote footer:before {
   content: "\2015";
 }
+
+hr {
+  width: 100%;
+}
